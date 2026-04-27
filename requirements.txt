@@ -1,0 +1,41 @@
+# --- data collection ---
+yfinance
+playwright
+pdfplumber
+edgartools
+defeatbeta-api
+requests
+
+# --- data processing ---
+pandas
+numpy
+pandas-ta-classic
+
+# --- machine learning ---
+scikit-learn
+xgboost
+shap
+arch                  # GARCH / HAR-RV volatility models
+
+# --- LLM / RAG ---
+ollama
+langchain
+langchain-ollama
+langchain-chroma
+langchain-core
+chromadb
+pydantic
+
+# --- fine-tuning (Colab only) ---
+# unsloth
+# trl
+# datasets
+# transformers
+
+# --- visualisation ---
+matplotlib
+seaborn
+plotly
+
+# --- utilities ---
+tqdm

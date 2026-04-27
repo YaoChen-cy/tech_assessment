@@ -1,0 +1,1 @@
+FROM ./llama-3.2-3b-instruct.Q4_K_M.gguf

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 show *)",
+      "Bash(pip3 install *)",
+      "Bash(brew install *)",
+      "Bash(curl -s https://www.python.org/ftp/python/3.11.9/python-3.11.9-macos11.pkg -o /tmp/python311.pkg)",
+      "Bash(/tmp/db_venv/bin/python src/market_data.py)"
+    ]
+  }
+}

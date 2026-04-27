@@ -1,0 +1,1 @@
+FROM ./wm_guidance_gguf/unsloth.Q4_K_M.gguf
