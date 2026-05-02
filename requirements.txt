@@ -15,7 +15,6 @@ pandas-ta-classic
 scikit-learn
 xgboost
 shap
-arch                  # GARCH / HAR-RV volatility models
 
 # --- LLM / RAG ---
 ollama
@@ -36,6 +35,3 @@ pydantic
 matplotlib
 seaborn
 plotly
-
-# --- utilities ---
-tqdm
