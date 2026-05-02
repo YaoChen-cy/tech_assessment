@@ -1,6 +1,0 @@
-{
-  "python.defaultInterpreterPath": "/tmp/db_venv/bin/python3",
-  "python.analysis.extraPaths": [
-    "/tmp/db_venv/lib/python3.11/site-packages"
-  ]
-}
